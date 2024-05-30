@@ -5,8 +5,8 @@
 - 🌱 As a beginner, I am currently experimenting with various side projects. I always welcome interest and feedback on my activities.
 - 🔧 Rather than using too many frameworks or languages, I am focusing on Flask and React (or JavaScript).
 
-| LinkedIn: https://www.linkedin.com/in/me/?trk=opento_sprofile_topcard
-| Blog: https://velog.io/@ansdnjs00/posts
+- LinkedIn: https://www.linkedin.com/in/me/?trk=opento_sprofile_topcard
+- Blog: https://velog.io/@ansdnjs00/posts
 
 
 <div align=center><h1>📚 STACKS</h1></div>
