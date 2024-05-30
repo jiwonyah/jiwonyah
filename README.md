@@ -6,7 +6,6 @@
 - 🔧 Rather than using too many frameworks or languages, I am focusing on Flask and React (or JavaScript).
 
 
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -33,7 +32,9 @@
   <h3>Database</h3>
   <div>  
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlalchemy-323232?style=for-the-badge&logo=sqlalchemy&logoColor=red">
   </div>
   <br>
 
@@ -50,5 +51,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
   <br>
+
+  
 
 </div>
